@@ -1,3 +1,8 @@
 *.o
 *.exe
 *.run
+\.idea/
+
+\.DS_Store
+
+cmake-build-debug/
